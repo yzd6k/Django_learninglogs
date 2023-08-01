@@ -1,6 +1,3 @@
-asgiref
-backports.zoneinfo
-beautifulsoup4
 dj-database-url
 dj-static
 Django
